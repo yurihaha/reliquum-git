@@ -21,3 +21,6 @@
 2) 없다하면
 3) 지워라
 4) 얘는 master에도 필요해 -> merge 필요
+5) 병합 방법 
+master에 최신 working copy 
+exp 의 최신 working copy 를 끌어다가 병합작업을 한다.
