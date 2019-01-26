@@ -10,3 +10,5 @@
     - Hard: w,s,r 다 지움 
         =>내가 작업한내용(W), 임시저장(S), git 버전 (R)
          git reset --hard
+4) revert 방법 
+    - 
